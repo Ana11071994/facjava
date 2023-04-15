@@ -1,6 +1,6 @@
 package org.sample;
 
-public class Sample {
+public class demo {
 	public static void main(String[] args) {
 		int a =8;
 		int fact=1;
